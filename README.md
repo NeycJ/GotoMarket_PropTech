@@ -6,7 +6,7 @@ This trial offering went to market in San Fransico real-estate.  I advised if Pr
 
 I used hvplot.pandas to visualize analysis by plots.  I included bokeh extension, for the ability to create a table next to the OSM tile plot, which is the last chart created; however, Github did not pull the visual shown below into repository.
 
-
+To view details, select StarterCode then SanFransico housing.ipynb
 
 
 
